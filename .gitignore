@@ -1,18 +1,4 @@
-# macOS
-.DS_Store
-
-# Python
 __pycache__/
 *.pyc
 .venv/
-venv/
 .env
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Editors
-.vscode/
-
-# Data cache (keep merged_monthly.csv)
-data/cache/
